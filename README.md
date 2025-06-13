@@ -10,7 +10,7 @@ Typescript, React, Next.js를 기반으로 서비스를 개발/배포/운영하�
 - **Styling**: TailwindCSS, Styled-components, Emotion
 - **Tools**: Git, Figma, VSCode
 
-### 🧭 목표
+### 🧭 My goal is 
 - 클린 아키텍처와 유지보수성 높은 프론트엔드 구조 설계
 - 협업과 커뮤니케이션에 강한 개발자
 - 사용자의 행동을 설계하는 UX 중심의 프론트엔드
